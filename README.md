@@ -8,12 +8,12 @@ format to listing.json.
 
 ```json
 {
-  "name": "my_app_chain",
-  "logo": "https://placehold.co/400x400",
-  "rpc_url": "https://rpc.myappchain.xyz",
-  "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
-  "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
+  "name": "0xalien",
+  "logo": "https://ibb.co/19p6hp2",
+  "rpc_url": "http://84.247.139.65:9944",
+  "explorer_url": "https://84.247.139.65:4000",
+  "metrics_endpoint": "https://84.247.139.65:9615/metrics",
+  "id": "0ef80cd9-4c71-4925-b4dc-5acbe6776a44"
 }
 ```
 
